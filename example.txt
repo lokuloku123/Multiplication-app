@@ -1,0 +1,2 @@
+jelgava.skola23.klase5.tafele.SetAttribute("background-color", "black");
+jelgava.skola23.klase5.chairs[0].SetAttribute("background-color", "black");
